@@ -1,0 +1,1 @@
+parse email to avoid any injection and RCE vulnerabilities
